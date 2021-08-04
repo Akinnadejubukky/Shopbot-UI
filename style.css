@@ -1,0 +1,138 @@
+/* body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+} */
+
+body, html {
+    height: 100%;
+    width: 100%;
+    font-family: proxima-nova,helvetica,arial,sans-serif;
+    font-weight: 400;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    line-height: 1.5;
+}
+
+Full height image header
+.bgimg-1 {
+  background-size: cover;
+    min-height: 100%;
+}
+
+#myNavbar {
+    height: 80px;
+    background-color: transparent;
+    position: sticky
+}
+
+#navbar-logo {
+  height: auto;
+  width: auto;
+}
+.navbar-link {
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    padding-right: 10rem;
+    word-spacing: normal;
+    color: rgb(0, 0, 0);
+}
+
+.headline {
+  font-weight: lighter;
+  padding-top: 50px;
+}
+
+.col-md-6 {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(243, 243, 184);
+  margin-top: 0.1px;
+}
+
+.row {
+  margin: 50px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50px;
+}
+
+#card-img-fit {
+  height: 30rem;
+  width: 34rem;
+  border-radius: 30px;
+}
+
+.card-word {
+  color: rgb(6, 6, 212);
+  text-align: center;
+}
+
+#container-section {
+  margin-top: 130px;
+  margin-bottom: 50px;
+  background-color: #ffffff;
+}
+
+.d-sect {
+  background-color: #ffffff;
+}
+
+#d-sect {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-fluid {
+  padding: 10px;
+  background-color: #c59f9f;
+  margin: 10px;
+}
+
+.bot-team {
+  margin-bottom: 5px;
+  padding-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}
+
+.g-4 {
+  border-radius: 30px;
+  background-color: #ffffff;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.w3-quarter {
+  text-align: justify;
+}
+
+.f-4 {
+  text-align: justify;
+  margin-bottom: 60px;
+  padding-left: 80px;
+  display: flex;
+}
+
+.footer-head {
+  padding-left: 35rem;
+}
+
+.w3-wide {
+  margin-top: 20px;
+}
+
+.w3-section {
+  image-rendering: -moz-crisp-edges;
+  word-spacing: 10px;
+}
+
+.cookie {
+  color: grey;
+}
